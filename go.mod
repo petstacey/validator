@@ -1,3 +1,3 @@
-module github.com/pso-dev/validator
+module github.com/petstacey/validator
 
 go 1.20
